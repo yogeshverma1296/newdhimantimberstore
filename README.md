@@ -6,6 +6,14 @@ Welcome to the official repository of New Dhiman Timber Store, a premier timber 
 
 New Dhiman Timber Store is a well-established business that has been serving the community since 1983. This repository houses the codebase for our modern, responsive, and multipage timber store website developed in July 2023. New Dhiman Timber Store is a Professional Quality Timber Store & Hardware Components Store in Rajpura, Punjab, India.
 
+Website Link https://newdhimantimberstore.com/
+
+Github Repository Link https://github.com/yogeshverma1296/newdhimantimberstore/
+
+Github Pages Link https://yogeshverma1296.github.io/newdhimantimberstore/
+
+Netlify Link https://newdhimantimberstore.netlify.app/
+
 ## Key Features
 
 - **Increased Sales:** Strategic website design contributed to a significant increase in timber and hardware sales, boasting a remarkable 22% growth.
