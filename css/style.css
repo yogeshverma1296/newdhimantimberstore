@@ -637,3 +637,8 @@
 .footer .copyright a:hover {
     color: var(--primary);
 }
+
+/* text justify */
+.text-justify {
+    text-align: justify;
+}
