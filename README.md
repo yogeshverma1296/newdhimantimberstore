@@ -43,6 +43,9 @@ Netlify Link https://newdhimantimberstore.netlify.app/
 ### Contact Page
 [![New Dhiman Timber Store Contact Page](https://github.com/yogeshverma1296/newdhimantimberstore/blob/main/readme/contact.png?raw=true)](https://newdhimantimberstore.com/contact)
 
+### Homepage on Phone
+[![New Dhiman Timber Store Homepage Phone](https://github.com/yogeshverma1296/newdhimantimberstore/blob/main/readme/homepagephone.png?raw=true)](https://newdhimantimberstore.com/)
+
 ## Project Links
 
 - [Website](https://newdhimantimberstore.com/) 
@@ -70,7 +73,7 @@ Hi 👋, I'm Yogesh Verma. I am a passionate Frontend Web Developer from India.
 
 👯 I’m looking to collaborate on Frontend Web Development Projects
 
-👨‍💻 All of my projects are available at www.yogeshverma.info
+👨‍💻 All of my projects are available at [yogeshverma1296.github.io](https://yogeshverma1296.github.io/)
 
 📝 I regularly write articles on www.linkedin.com/in/yogeshverma1296/
 
